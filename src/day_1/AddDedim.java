@@ -6,5 +6,7 @@ public class AddDedim {
         System.out.println("direct git puch olmadi simdi commit deniycem");
         //add . demezsen sadece class i ekliyor, icerik eklenmiyor
         // bunu inetlliJ den call etmek icin git puul yada doctor isareti click
+        //buraya pull etmeden yaptigin degisikligi githubdan en altta commit tiklamalisin
+        //yoksa doctor isareti ise yaramaz
     }
 }
